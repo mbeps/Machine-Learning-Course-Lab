@@ -53,6 +53,16 @@ files = [
 ]
 
 [[package]]
+name = "apyori"
+version = "1.1.2"
+description = "Simple Apriori algorithm Implementation."
+optional = false
+python-versions = "*"
+files = [
+    {file = "apyori-1.1.2.tar.gz", hash = "sha256:e2e6ffcf14732b1b1432608cf83b81ac538243387b0458eb7d9296e770d462ec"},
+]
+
+[[package]]
 name = "argon2-cffi"
 version = "23.1.0"
 description = "Argon2 for Python"
@@ -3315,4 +3325,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.13"
-content-hash = "8588bb692db4bc25f1ca4a15ccb558055f6276eda3554c1dbcad857ca90111c9"
+content-hash = "5b2d03ccbe444296cd367dd3ac8ab15f4e5bdbcca3b708dbf4c0a0a0fe805110"
