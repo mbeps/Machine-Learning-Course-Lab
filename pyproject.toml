@@ -21,6 +21,7 @@ scipy = "^1.14.0"
 apyori = "^1.1.2"
 nltk = "^3.8.1"
 tensorflow = "^2.16.2"
+keras = "^3.4.1"
 
 
 [build-system]
